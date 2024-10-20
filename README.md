@@ -1,4 +1,4 @@
-## The script will include three main tools:
+# The script will include three main tools:
 ## 
 Mass Login: Verifies the accounts listed in "acc.txt" on the specified website of your choice.
 
@@ -8,7 +8,7 @@ Scrap Tool: A web scraping tool designed to extract elements such as prices from
 
 ##
 
-## LIBRARYS USEDS
+# LIBRARYS USEDS
 
-# pip install aiohttp
-# pip install bs4
+## pip install aiohttp
+## pip install bs4
