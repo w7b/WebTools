@@ -1,3 +1,5 @@
+# Currently paused, studying ways to perform general authentication on several sites
+
 # The script will include three main tools:
 ## 
 - Mass Login: Verifies the accounts listed in "acc.txt" on the specified website of your choice.
